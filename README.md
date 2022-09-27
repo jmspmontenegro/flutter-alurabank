@@ -1,5 +1,3 @@
-![Logo](https://github.com/jmspmontenegro/flutter-alurabank/blob/master/web/icons/Icon-192.png?raw=true)
-
 # 🚀 MyBank - Initial course of Flutter
 
 Hi there! It's my first Flutter project. I created it on the Alura Flutter Course.
